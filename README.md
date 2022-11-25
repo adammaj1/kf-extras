@@ -1,6 +1,14 @@
 # kf-extras
 It is a fork of kf-extras: extras for manipulating output from Kalles Fraktaler 2 by Claude Heiland-Allen
+* [original repo](https://code.mathr.co.uk/kf-extras)
+* [wikibooks](https://en.wikibooks.org/wiki/Fractals/kf-extras)
 
+Dependencies
+* [OpenMP](https://pl.wikibooks.org/wiki/Programowanie_w_systemie_UNIX/CPU#OpenMP)
+
+
+# programs
+* expmap
 
 
 
