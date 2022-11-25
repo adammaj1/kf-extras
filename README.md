@@ -1,10 +1,17 @@
 # kf-extras
-It is a fork of kf-extras: extras for manipulating output from Kalles Fraktaler 2 by Claude Heiland-Allen
+It is a fork of kf-extras: extras for manipulating output from [Kalles Fraktaler 2](https://en.wikibooks.org/wiki/Fractals/kallesfraktaler) by [Claude Heiland-Allen](https://mathr.co.uk/)
 * [original repo](https://code.mathr.co.uk/kf-extras)
 * [wikibooks](https://en.wikibooks.org/wiki/Fractals/kf-extras)
 
-Dependencies
+
+
+# Dependencies
 * [OpenMP](https://pl.wikibooks.org/wiki/Programowanie_w_systemie_UNIX/CPU#OpenMP)
+
+
+# Differences
+* here is c, in original C++ ( compile with  g++ -std=c++17  )
+* here one file programs ( no other then standard units dependecies ), in original repo there are dependencies
 
 
 # programs
@@ -17,7 +24,6 @@ Dependencies
 
 ```
 git add README.md
-git commit -m "first commit"
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:adammaj1/kf-extras.git
